@@ -29,3 +29,7 @@ textarea.materialize-textarea:focus:not([readonly]){
   border-color: #ec407a;
   box-shadow: none;
 }
+
+.card {
+  margin-top: 60px;
+}
